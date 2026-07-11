@@ -1,0 +1,48 @@
+h1 {
+    color:#7f943b;
+    font-family: sans-serif;
+}
+
+#navigation-link {
+    color:#7f943b;
+    font-family: sans-serif;
+    font-weight: bold;
+    text-decoration: none;
+    margin-bottom: 10px;
+    font-size: large;
+}
+
+#navigation-link:hover {
+    color: #556328;
+}
+
+#navigation-bar {
+    width: 300px;
+    position: absolute;
+    display : grid;
+    place-items : center;
+    padding : 10px;
+}
+
+#page-text {
+    padding : 10px;
+    font-family: sans-serif;
+    position: absolute;
+    top : 150px;
+    left : 350px;
+}
+
+#personal-picture {
+    width:300px;
+    height: 300px;
+    display : inline-flexbox;
+    float: left;
+    padding: 10px;
+}
+
+#knot-theory-book {
+    width:650px;
+    display : inline-flexbox;
+    float: left;
+    padding: 10px;
+}
